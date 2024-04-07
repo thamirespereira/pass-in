@@ -1,4 +1,4 @@
-package com.rocketseat.passin.dto.event.attendee;
+package com.rocketseat.passin.dto.attendee;
 
 import java.util.List;
 
